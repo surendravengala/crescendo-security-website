@@ -6,8 +6,7 @@ import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/crescendo-secure-solutions">
-      <App />
+<BrowserRouter basename="/crescendo-security-website">      <App />
     </BrowserRouter>
   </React.StrictMode>
 )
